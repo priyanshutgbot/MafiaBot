@@ -2,15 +2,15 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MafiaBotOP/MafiaBotOP)
 [![HitCount](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP.svg)](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Belongs_to_LordKrishna)
 
 
 
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+MafiaBot made by @Belongs_to_LordKrishna. Join for update related info channel and group :- https://t.me/PRIYANSHUBOTS THANKS FOR VISITING OUR REPO💖
+[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/PRIYANSHUBOTS)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/PRIYANSHUBOTS">☢️JOIN PRIYANSHU SUPPORT☢️</a></h2>
 
 </details>
 
@@ -52,7 +52,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git
+git clone https://github.com/priyanshutgbot/MafiaBot.git
 cd MAFIA-USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
